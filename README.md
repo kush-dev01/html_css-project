@@ -9,12 +9,12 @@ FEATURES- responsive design <br>
           image gallery <br> 
 
 
-          TECHNOLOGY USED- HTML5 <br> 
-                           CSS3 <br> 
+          TECHNOLOGY USED- HTML5 
+                           CSS3  
 
 
-          FUTURE IMPROVEMENTS- food ordering feature <br> 
-                               backend integration <br> 
+          FUTURE IMPROVEMENTS- food ordering feature  
+                               backend integration 
 
 
            author- kumar kushal                     
